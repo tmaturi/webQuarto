@@ -2,7 +2,7 @@
 title: "webQuarto"
 ---
 
-This is a Quarto website. hiiiiii
+This is a Quarto website. hiiiiii WHYYYYY
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
