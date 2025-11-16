@@ -7,7 +7,7 @@ This is a Quarto website. hiiiiii WHYYYYY
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 
-<https://tmaturi.github.io/webQuarto/Trypdf.pdf>.
+<https://tmaturi.github.io/webQuarto/pdfs/Trypdf.pdf>.
 
 ```{r}
 1 + 1
